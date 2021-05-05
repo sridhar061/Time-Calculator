@@ -43,5 +43,6 @@ ALGORITHM FOR THE
 
 FLOW - CHART
 
-![image](https://user-images.githubusercontent.com/62333854/117165391-15366580-ade3-11eb-840e-cb52341f4724.png)
+![image](https://user-images.githubusercontent.com/62333854/117165599-431baa00-ade3-11eb-8f0d-3059721e0a9e.png)
+
 
