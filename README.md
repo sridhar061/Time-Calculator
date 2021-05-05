@@ -40,3 +40,8 @@ ALGORITHM FOR THE
 	R: Used to store the value
 
 	t: used to store the value of time
+
+FLOW - CHART
+
+![image](https://user-images.githubusercontent.com/62333854/117165391-15366580-ade3-11eb-840e-cb52341f4724.png)
+
