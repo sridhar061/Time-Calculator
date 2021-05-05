@@ -1,4 +1,4 @@
-# Time-Calculator
+# Wake Up Time-Calculator
 
 ALGORITHM FOR THE 
 “WAKE UP TIME CALCULATOR”
